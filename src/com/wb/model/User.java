@@ -1,7 +1,10 @@
 package com.wb.model;
 
 import java.sql.Date;
-
+/**
+ *anthor:tkz
+ *
+ * */
 public class User extends UserPic{
 	private int id;
 	private String email;
